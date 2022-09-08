@@ -1,5 +1,5 @@
 This is a quick solution of the task.
-![demo](https://ibb.co/nrCdZwM)
+![demo]([https://ibb.co/nrCdZwM](https://i.ibb.co/LS5jb0d/Bildschirmfoto-2022-09-08-um-12-09-58.png))
 
 ## Getting Started
 
